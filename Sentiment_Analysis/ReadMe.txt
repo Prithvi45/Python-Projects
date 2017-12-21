@@ -1,0 +1,1 @@
+1. Set your Google NLP API keys into your EnV variable  
